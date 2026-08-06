@@ -10,6 +10,7 @@
 | [0766-toeplitz-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## Backtracking
@@ -95,8 +96,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 <!---LeetCode Topics End-->
