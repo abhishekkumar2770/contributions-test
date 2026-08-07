@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/abhishekkumar2770/contributions-test/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekkumar2770/contributions-test/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
@@ -26,6 +27,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [1328-break-a-palindrome](https://github.com/abhishekkumar2770/contributions-test/tree/main/1328-break-a-palindrome/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
@@ -69,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
@@ -98,6 +101,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 ## Game Theory
@@ -150,4 +154,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 <!---LeetCode Topics End-->
