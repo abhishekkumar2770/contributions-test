@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/abhishekkumar2770/contributions-test/tree/main/0039-combination-sum/) | Medium |
+| [0048-rotate-image](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekkumar2770/contributions-test/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -73,10 +74,12 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/0766-toeplitz-matrix/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 ## Sorting
