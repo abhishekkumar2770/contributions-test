@@ -10,6 +10,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekkumar2770/contributions-test/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -102,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 ## Game Theory
@@ -116,11 +118,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0754-reach-a-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0754-reach-a-number/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -158,4 +162,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 <!---LeetCode Topics End-->
