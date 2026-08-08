@@ -28,6 +28,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0071-simplify-path/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [1328-break-a-palindrome](https://github.com/abhishekkumar2770/contributions-test/tree/main/1328-break-a-palindrome/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
@@ -133,6 +134,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
