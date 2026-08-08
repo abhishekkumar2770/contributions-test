@@ -118,6 +118,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0241-different-ways-to-add-parentheses/) | Medium |
+| [0367-valid-perfect-square](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
 | [0754-reach-a-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0754-reach-a-number/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
@@ -144,6 +145,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
 | [0754-reach-a-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0754-reach-a-number/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
