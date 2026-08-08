@@ -21,6 +21,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@
 | [1328-break-a-palindrome](https://github.com/abhishekkumar2770/contributions-test/tree/main/1328-break-a-palindrome/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +113,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
