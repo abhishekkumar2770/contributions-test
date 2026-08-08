@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/abhishekkumar2770/contributions-test/tree/main/0039-combination-sum/) | Medium |
+| [3646-next-special-palindrome-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/3646-next-special-palindrome-number/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1494-parallel-courses-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/1494-parallel-courses-ii/) | Hard |
+| [3646-next-special-palindrome-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/3646-next-special-palindrome-number/) | Hard |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
