@@ -165,15 +165,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1042-flower-planting-with-no-adjacent/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,4 +221,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1042-flower-planting-with-no-adjacent/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
