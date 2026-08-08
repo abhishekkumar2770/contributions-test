@@ -71,6 +71,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1494-parallel-courses-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/1494-parallel-courses-ii/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bitmask
@@ -166,6 +167,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [1042-flower-planting-with-no-adjacent](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1042-flower-planting-with-no-adjacent/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,9 +206,14 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1042-flower-planting-with-no-adjacent/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1042-flower-planting-with-no-adjacent/) | Medium |
 <!---LeetCode Topics End-->
