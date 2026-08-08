@@ -19,6 +19,7 @@
 | [2746-decremental-string-concatenation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2746-decremental-string-concatenation/) | Medium |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## Backtracking
@@ -39,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
+| [3546-equal-sum-grid-partition-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@
 | [0048-rotate-image](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/0766-toeplitz-matrix/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
+| [3546-equal-sum-grid-partition-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +117,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
