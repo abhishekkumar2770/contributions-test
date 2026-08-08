@@ -21,6 +21,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## Backtracking
@@ -61,6 +62,7 @@
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1494-parallel-courses-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/1494-parallel-courses-ii/) | Hard |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +162,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
