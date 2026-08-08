@@ -17,6 +17,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2397-maximum-rows-covered-by-columns](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2397-maximum-rows-covered-by-columns/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2746-decremental-string-concatenation/) | Medium |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
@@ -31,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/abhishekkumar2770/contributions-test/tree/main/0039-combination-sum/) | Medium |
+| [2397-maximum-rows-covered-by-columns](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2397-maximum-rows-covered-by-columns/) | Medium |
 | [3646-next-special-palindrome-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/3646-next-special-palindrome-number/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -69,6 +71,7 @@
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1494-parallel-courses-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/1494-parallel-courses-ii/) | Hard |
+| [2397-maximum-rows-covered-by-columns](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2397-maximum-rows-covered-by-columns/) | Medium |
 | [3646-next-special-palindrome-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/3646-next-special-palindrome-number/) | Hard |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Graph Theory
@@ -111,6 +114,7 @@
 | [0048-rotate-image](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/0766-toeplitz-matrix/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2397-maximum-rows-covered-by-columns](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2397-maximum-rows-covered-by-columns/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 ## Math
@@ -140,6 +144,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2397-maximum-rows-covered-by-columns](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2397-maximum-rows-covered-by-columns/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## Binary Search
