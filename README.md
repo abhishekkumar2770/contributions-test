@@ -11,6 +11,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekkumar2770/contributions-test/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0874-walking-robot-simulation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -81,6 +82,7 @@
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0874-walking-robot-simulation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
@@ -164,6 +166,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Sliding Window
