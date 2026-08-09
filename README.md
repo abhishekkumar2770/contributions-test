@@ -18,6 +18,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -48,6 +49,7 @@
 | [0752-open-the-lock](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0752-open-the-lock/) | Medium |
 | [1328-break-a-palindrome](https://github.com/abhishekkumar2770/contributions-test/tree/main/1328-break-a-palindrome/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
+| [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2746-decremental-string-concatenation/) | Medium |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
@@ -105,6 +107,7 @@
 | [0752-open-the-lock](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0752-open-the-lock/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
@@ -257,6 +260,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1352-product-of-the-last-k-numbers/) | Medium |
+| [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
