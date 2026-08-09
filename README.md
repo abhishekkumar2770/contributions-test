@@ -14,6 +14,7 @@
 | [0766-toeplitz-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
+| [0892-surface-area-of-3d-shapes](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
@@ -126,6 +127,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2397-maximum-rows-covered-by-columns](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2397-maximum-rows-covered-by-columns/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -137,6 +139,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0241-different-ways-to-add-parentheses/) | Medium |
 | [0367-valid-perfect-square](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
 | [0754-reach-a-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0754-reach-a-number/) | Medium |
+| [0892-surface-area-of-3d-shapes](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
@@ -216,6 +219,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
