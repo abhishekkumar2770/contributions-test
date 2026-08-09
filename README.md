@@ -111,6 +111,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
+| [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
@@ -174,6 +175,7 @@
 | [0754-reach-a-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0754-reach-a-number/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+| [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -181,10 +183,12 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
+| [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -267,8 +271,21 @@
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
+| [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1352-product-of-the-last-k-numbers/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
 <!---LeetCode Topics End-->
