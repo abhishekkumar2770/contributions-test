@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
+| [0268-missing-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekkumar2770/contributions-test/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -87,6 +88,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1494-parallel-courses-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/1494-parallel-courses-ii/) | Hard |
 | [2397-maximum-rows-covered-by-columns](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2397-maximum-rows-covered-by-columns/) | Medium |
@@ -111,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
+| [0268-missing-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0752-open-the-lock](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0752-open-the-lock/) | Medium |
@@ -149,6 +152,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0241-different-ways-to-add-parentheses/) | Medium |
+| [0268-missing-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
 | [0754-reach-a-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0754-reach-a-number/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0892-surface-area-of-3d-shapes/) | Easy |
@@ -161,6 +165,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
+| [0268-missing-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -183,6 +188,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
 | [0754-reach-a-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0754-reach-a-number/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
