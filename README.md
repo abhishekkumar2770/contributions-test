@@ -43,6 +43,7 @@
 | [0039-combination-sum](https://github.com/abhishekkumar2770/contributions-test/tree/main/0039-combination-sum/) | Medium |
 | [2397-maximum-rows-covered-by-columns](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2397-maximum-rows-covered-by-columns/) | Medium |
 | [3646-next-special-palindrome-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/3646-next-special-palindrome-number/) | Hard |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@
 | [2746-decremental-string-concatenation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2746-decremental-string-concatenation/) | Medium |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@
 | [2397-maximum-rows-covered-by-columns](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2397-maximum-rows-covered-by-columns/) | Medium |
 | [3646-next-special-palindrome-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/3646-next-special-palindrome-number/) | Hard |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +179,7 @@
 | [2397-maximum-rows-covered-by-columns](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2397-maximum-rows-covered-by-columns/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
