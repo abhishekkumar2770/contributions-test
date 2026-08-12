@@ -59,6 +59,7 @@
 | [1328-break-a-palindrome](https://github.com/abhishekkumar2770/contributions-test/tree/main/1328-break-a-palindrome/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1859-sorting-the-sentence/) | Easy |
 | [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2746-decremental-string-concatenation/) | Medium |
@@ -180,6 +181,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1859-sorting-the-sentence/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
@@ -325,4 +327,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->
