@@ -21,6 +21,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2121-intervals-between-identical-elements/) | Medium |
 | [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
@@ -119,6 +120,7 @@
 | [0752-open-the-lock](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0752-open-the-lock/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2121-intervals-between-identical-elements/) | Medium |
 | [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
@@ -224,6 +226,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1042-flower-planting-with-no-adjacent/) | Medium |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
