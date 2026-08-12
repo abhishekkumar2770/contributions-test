@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekkumar2770/contributions-test/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0752-open-the-lock](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0752-open-the-lock/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -74,6 +75,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekkumar2770/contributions-test/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0767-reorganize-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
 | [1328-break-a-palindrome](https://github.com/abhishekkumar2770/contributions-test/tree/main/1328-break-a-palindrome/) | Medium |
@@ -173,6 +175,7 @@
 | [0049-group-anagrams](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
 | [0268-missing-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0767-reorganize-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -221,6 +224,7 @@
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +263,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -316,4 +321,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
 <!---LeetCode Topics End-->
