@@ -18,6 +18,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1352-product-of-the-last-k-numbers/) | Medium |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
@@ -109,6 +110,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0752-open-the-lock](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0752-open-the-lock/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
@@ -155,6 +157,7 @@
 | [0049-group-anagrams](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
