@@ -21,6 +21,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2121-intervals-between-identical-elements](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2121-intervals-between-identical-elements/) | Medium |
 | [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
@@ -63,6 +64,7 @@
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
+| [2121-intervals-between-identical-elements](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2121-intervals-between-identical-elements/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -112,6 +114,7 @@
 | [0874-walking-robot-simulation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2121-intervals-between-identical-elements](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2121-intervals-between-identical-elements/) | Medium |
 | [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
 | [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
