@@ -68,6 +68,7 @@
 | [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2746-decremental-string-concatenation/) | Medium |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3955-valid-binary-strings-with-cost-limit/) | Medium |
@@ -141,6 +142,7 @@
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
 | [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
@@ -153,6 +155,7 @@
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +223,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [4022-k-th-digit-in-infinite-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/4022-k-th-digit-in-infinite-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -274,6 +278,7 @@
 | ------- | ------- |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
