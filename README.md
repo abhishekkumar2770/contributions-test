@@ -43,6 +43,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
+| [3809-best-reachable-tower](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3809-best-reachable-tower/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
