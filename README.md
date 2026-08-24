@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
@@ -295,6 +296,7 @@
 | ------- | ------- |
 | [0018-4sum](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0018-4sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
