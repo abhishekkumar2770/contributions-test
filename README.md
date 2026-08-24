@@ -176,6 +176,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
+| [2180-count-integers-with-even-digit-sum](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
@@ -261,6 +262,7 @@
 | [0054-spiral-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
+| [2180-count-integers-with-even-digit-sum](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Sliding Window
