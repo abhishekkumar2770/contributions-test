@@ -182,6 +182,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
+| [1952-three-divisors](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1952-three-divisors/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
@@ -211,6 +212,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1952-three-divisors/) | Easy |
 | [2397-maximum-rows-covered-by-columns](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2397-maximum-rows-covered-by-columns/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
@@ -377,4 +379,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1952-three-divisors/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1952-three-divisors/) | Easy |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
