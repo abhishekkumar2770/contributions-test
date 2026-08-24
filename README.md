@@ -134,6 +134,7 @@
 | [0752-open-the-lock](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
+| [1015-smallest-integer-divisible-by-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -177,6 +178,7 @@
 | [0367-valid-perfect-square](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
 | [0754-reach-a-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0754-reach-a-number/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0892-surface-area-of-3d-shapes/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
@@ -371,4 +373,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/0023-merge-k-sorted-lists/) | Hard |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
