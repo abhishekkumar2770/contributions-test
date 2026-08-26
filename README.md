@@ -31,6 +31,7 @@
 | [2121-intervals-between-identical-elements](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2121-intervals-between-identical-elements/) | Medium |
 | [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
 | [2191-sort-the-jumbled-numbers](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2191-sort-the-jumbled-numbers/) | Medium |
+| [2306-naming-a-company](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/2306-naming-a-company/) | Hard |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -71,6 +72,7 @@
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1859-sorting-the-sentence/) | Easy |
 | [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
+| [2306-naming-a-company](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/2306-naming-a-company/) | Hard |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2746-decremental-string-concatenation/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
@@ -111,6 +113,7 @@
 | [0268-missing-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1494-parallel-courses-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/1494-parallel-courses-ii/) | Hard |
+| [2306-naming-a-company](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/2306-naming-a-company/) | Hard |
 | [2397-maximum-rows-covered-by-columns](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2397-maximum-rows-covered-by-columns/) | Medium |
 | [3599-partition-array-to-minimize-xor](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3599-partition-array-to-minimize-xor/) | Medium |
 | [3646-next-special-palindrome-number](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/3646-next-special-palindrome-number/) | Hard |
@@ -146,6 +149,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishekkumar2770/contributions-test/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2121-intervals-between-identical-elements/) | Medium |
 | [2166-design-bitset](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2166-design-bitset/) | Medium |
+| [2306-naming-a-company](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/2306-naming-a-company/) | Hard |
 | [2365-task-scheduler-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2365-task-scheduler-ii/) | Medium |
 | [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
@@ -222,6 +226,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1952-three-divisors/) | Easy |
+| [2306-naming-a-company](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/2306-naming-a-company/) | Hard |
 | [2397-maximum-rows-covered-by-columns](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2397-maximum-rows-covered-by-columns/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
