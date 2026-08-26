@@ -47,6 +47,7 @@
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3809-best-reachable-tower](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3809-best-reachable-tower/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +211,7 @@
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
