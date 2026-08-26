@@ -192,6 +192,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
+| [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3881-direction-assignments-with-exactly-k-visible-people/) | Medium |
 | [4022-k-th-digit-in-infinite-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/4022-k-th-digit-in-infinite-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -401,4 +402,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/1952-three-divisors/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3881-direction-assignments-with-exactly-k-visible-people/) | Medium |
 <!---LeetCode Topics End-->
