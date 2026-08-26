@@ -37,6 +37,7 @@
 | [2397-maximum-rows-covered-by-columns](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2397-maximum-rows-covered-by-columns/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2746-decremental-string-concatenation/) | Medium |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -236,6 +237,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [4022-k-th-digit-in-infinite-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/4022-k-th-digit-in-infinite-string/) | Medium |
 ## Heap (Priority Queue)
@@ -247,6 +249,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/abhishekkumar2770/contributions-test/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -259,6 +262,7 @@
 | [0071-simplify-path](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -358,14 +362,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2424-longest-uploaded-prefix](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2424-longest-uploaded-prefix/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
