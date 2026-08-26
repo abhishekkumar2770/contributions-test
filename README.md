@@ -42,6 +42,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3599-partition-array-to-minimize-xor](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3599-partition-array-to-minimize-xor/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhishekkumar2770/contributions-test/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
@@ -77,6 +78,7 @@
 | [2746-decremental-string-concatenation](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2746-decremental-string-concatenation/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abhishekkumar2770/contributions-test/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Prefix Sum
@@ -125,6 +127,7 @@
 | [1042-flower-planting-with-no-adjacent](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1494-parallel-courses-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/1494-parallel-courses-ii/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +283,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1743-restore-the-array-from-adjacent-pairs/) | Medium |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +337,7 @@
 | [0752-open-the-lock](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0752-open-the-lock/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/1042-flower-planting-with-no-adjacent/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
