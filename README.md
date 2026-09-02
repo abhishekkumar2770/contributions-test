@@ -64,6 +64,7 @@
 | [0043-multiply-strings](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0071-simplify-path/) | Medium |
+| [0087-scramble-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/0087-scramble-string/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0241-different-ways-to-add-parentheses/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0752-open-the-lock](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0752-open-the-lock/) | Medium |
@@ -104,6 +105,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0087-scramble-string](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Hard/0087-scramble-string/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekkumar2770/contributions-test/tree/main/C++/Medium/0241-different-ways-to-add-parentheses/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekkumar2770/contributions-test/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1494-parallel-courses-ii](https://github.com/abhishekkumar2770/contributions-test/tree/main/1494-parallel-courses-ii/) | Hard |
